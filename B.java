@@ -1,3 +1,6 @@
+class A{
+
 public static void main (String[]args){
-a
+	System.out.println("HELLO WORLD");
+    }
 }
